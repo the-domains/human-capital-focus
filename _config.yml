@@ -1,0 +1,29 @@
+name: Human Capital Focus
+favicon: null
+layout_spectrum: 0.5204862074460834
+typography_spectrum: 0.27240768214687705
+title: 'Human Capital Focus, LLC'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5134313886519521
+  lightness: 0.17699998803436756
+  saturation: 0.21135120769031346
+  rhythmicContrast: 0.679956701816991
+purpose: []
